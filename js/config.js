@@ -1,6 +1,6 @@
 // ==================== CONFIG ====================
 const CONFIG = {
-    CONTRACT_ADDRESS: '0x723C53af5D645f15FcE4884C65202354F369977f',
+    CONTRACT_ADDRESS: '0x86E04F421c024c9CcBA3C76e092df46B0C70Bc08',
     // Etherscan API V2 - unified endpoint for all chains
     ETHERSCAN_API: 'https://api.etherscan.io/v2/api',
     ETHERSCAN_API_KEY: 'EH8RIGPCKU3SIFD5976DUPS884Y4HIKEUY',
